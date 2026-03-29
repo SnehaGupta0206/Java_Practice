@@ -1,5 +1,6 @@
+package Conditionals;
 import java.util.*;
-public class Main1{ //class definition
+public class for_loop{ //class definition
     public static void main (String [] args){
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
